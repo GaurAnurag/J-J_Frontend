@@ -1,5 +1,5 @@
 
-        const API_URL = "http://localhost:8000";
+        const API_URL = "https://pharma-rag-platform.onrender.com";
         const snippetStore = new Map();
 
         const chatForm = document.getElementById('chat-form');
